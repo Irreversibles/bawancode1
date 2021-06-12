@@ -1,5 +1,5 @@
 
-name: 百度极速版
+name: 八度极速版
 
 on:
   workflow_dispatch:
